@@ -1,7 +1,7 @@
 {
   "name": "pokedex",
   "version": "1.0.0",
-  "description": "",
+  "description": "Pokemon List: Developed with Ejs, Express, NodeJs, JavaScript. Creating Index, Routes, setting server and building EJS logic to dynamically display data.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,5 +14,13 @@
     "ejs": "^2.7.1",
     "express": "^4.17.1",
     "method-override": "^3.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaSilvaBrunoTexas/PokemonList.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DaSilvaBrunoTexas/PokemonList/issues"
+  },
+  "homepage": "https://github.com/DaSilvaBrunoTexas/PokemonList#readme"
 }
